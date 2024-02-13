@@ -82,8 +82,5 @@ http://localhost:35000/script.js
 ![](images/submit.jpg)
 
 
-# Lincencia
-Licenciado por GNU General Public License v3.5
-
 # Autor 
 CESAR AMAYA GOMEZ
