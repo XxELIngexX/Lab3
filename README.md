@@ -29,9 +29,9 @@ Por otro lado, la interfaz "WebService" representa una función que maneja las r
 
 + luego en el ide de preferencia (Intellij) abrilo de la siguiente forma:
 
-  !(images/idle.jpg)
+  ![](images/idle.jpg)
 
-+ Para ejecutar el laboratrio es la clase [MyWebServices] y desde el ide de prefencia correr la clase mencionada, Luego, ejecute la clase y abra su navegador de confianza(En mi caso use [Google](https://www.google.com/?hl=es)). En la barra de direcciones colocar:
++ Para ejecutar el laboratrio es la clase [MyWebServices] y desde el ide de prefencia correr la clase mencionada, Luego, ejecute la clase y abra su navegador de confianza. 
 
 # Arquitectura
 El proyecto contiene dos clases y una interfaz:
@@ -57,7 +57,29 @@ http://localhost:35000/script.js
 ```
 
 # pruebas
+###  los archivos estáticos traidos del directorio:
++ cargamos un html con "http://localhost:35000/home.html"
+![](images/html.jpg)
 
++ cargamos un css con "http://localhost:35000/style.html"
+![](images/css.jpg)
+
++ cargamos un js con "http://localhost:35000/script.html"
+![](images/js.jpg)
+
+### pruebas para el get y el post:
++ cargamos un get con "http://localhost:35000/action/arep"
+![](images/arep.jpg)
+
++ cargamos un get con "http://localhost:35000/action/arsw"
+![](images/arsw.jpg)
+
++ cargamos un get con "http://localhost:35000/action/name"
+![](images/name.jpg)
+
++ cargamos un post con "http://localhost:35000/action/submit"
+  la solicitud post se le envia como parametro el nombre, en este caso valor = "null"
+![](images/submit.jpg)
 
 
 # Lincencia
