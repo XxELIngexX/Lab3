@@ -29,6 +29,8 @@ Por otro lado, la interfaz "WebService" representa una función que maneja las r
 
 + luego en el ide de preferencia (Intellij) abrilo de la siguiente forma:
 
+  !(images/idle.jpg)
+
 + Para ejecutar el laboratrio es la clase [MyWebServices] y desde el ide de prefencia correr la clase mencionada, Luego, ejecute la clase y abra su navegador de confianza(En mi caso use [Google](https://www.google.com/?hl=es)). En la barra de direcciones colocar:
 
 # Arquitectura
