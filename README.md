@@ -28,7 +28,7 @@ Por otro lado, la interfaz "WebService" representa una función que maneja las r
     ```
 
 + luego en el ide de preferencia (Intellij) abrilo de la siguiente forma:
-![image](https://github.com/Juc28/AREP_LAB03/assets/118181224/a959001f-0bbc-4f06-904b-609021cc8f8c)
+
 + Para ejecutar el laboratrio es la clase [MyWebServices] y desde el ide de prefencia correr la clase mencionada, Luego, ejecute la clase y abra su navegador de confianza(En mi caso use [Google](https://www.google.com/?hl=es)). En la barra de direcciones colocar:
 
 # Arquitectura
